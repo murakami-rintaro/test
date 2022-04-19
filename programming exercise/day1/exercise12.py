@@ -15,5 +15,7 @@ for i in s:
         terms.add(j)
 terms = list(terms)
 
+print("docs:")
 print(docs)
+print("terms:")
 print(terms)
